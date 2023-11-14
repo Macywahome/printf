@@ -19,7 +19,7 @@
 #define S_SHORT 1
 
 /**
- * struct fmt - Struct op
+ * struct fmt - Struct operation.
  * @fmt: Format.
  * @fn: Associated function.
  */
@@ -31,7 +31,7 @@ struct fmt
 
 
 /**
- * typedef struct fmt fmt_t - Struct op
+ * typedef struct fmt fmt_t - Struct operation.
  * @fmt: Format.
  * @fm_t: Associated function.
  */
@@ -104,7 +104,7 @@ int write_unsgnd(int is_negative, int ind,
 char buffer[],
 	int flags, int width, int precision, int size);
 
-/****************** UTILS ******************/
+/****************** UTILITIES ******************/
 int is_printable(char);
 int append_hexa_code(char, char[], int);
 int is_digit(char);
