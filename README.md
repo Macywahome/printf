@@ -1,1 +1,1 @@
-This file contains details of the printf project done by Mercy & Kenneth
+This file contains details of the printf project done by Mercy & Kennedy.
