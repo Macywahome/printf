@@ -4,6 +4,7 @@
 
 /**
  * main - Entry point
+ * Kennedy and Mercy group project.
  *
  * Return: Always 0
  */
